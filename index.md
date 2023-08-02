@@ -8,7 +8,7 @@ Enterprise Data Backbone is a technology transformation program focused on the n
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/fraud_detection)
 
-<center><img src="images/fraud_detection.jpg"/></center>
+<center><img src="assets/img/Explain-Cloud-migration.jpg"/></center>
 
 ---
 ## Header 2
